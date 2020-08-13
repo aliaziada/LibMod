@@ -1,0 +1,3 @@
+rootProject.name='LibPro'
+include ':app'
+include ':libmod'
